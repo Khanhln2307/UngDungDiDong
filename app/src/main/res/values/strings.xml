@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Math123</string>
+    <string name="btn_test">Kiểm tra</string>
+    <string name="btn_practice">Luyện tập</string>
+    <string name="btn_setting">Cài đặt</string>
+    <string name="logo">TODO</string>
+    <string name="btn_ToanHinh">\nToán\nhình</string>
+    <string name="btn_Toando">\nToán\nđố</string>
+    <string name="btn_Tinhnham">\nTính\nnhẩm</string>
+    <string name="btn_Lonbe">\nLớn\nbé</string>
+    <string name="Lonbe_numberB">4</string>
+    <string name="Lonbe_numberA">3</string>
+    <string name="equalsign">=</string>
+    <string name="lesssign"><![CDATA[<]]></string>
+    <string name="greatersign"><![CDATA[>]]></string>
+    <string name="btn_Next">Tiếp theo</string>
+    <string name="TinhNham_numberA">1</string>
+    <string name="TinhNham_numberB">2</string>
+    <string name="DapAnA">1</string>
+    <string name="DapAnB">2</string>
+    <string name="DapAnC">3</string>
+    <string name="DapAnD">4</string>
+    <string name="TinhNham_Sign">+</string>
+    <string name="DiemSo">0</string>
+    <string name="Cau">Câu 1</string>
+    <string name="TinhNham_numberC">3</string>
+    <string name="LogicHoiKQ">= ?</string>
+    <string name="Logic_SignA">+</string>
+    <string name="Logic_SignB">-</string>
+    <string name="Logic_KQA">= 1</string>
+    <string name="Logic_KQB">= 1</string>
+    <string name="LogicText">Bạn Toàn có 6 viên bi, thắng 2 viên bị. Hỏi bạn Toàn có mấy viên bi?</string>
+    <string name="NewTinhNham">1 + 1 = ?</string>
+    <string name="About">Thông tin ứng dụng</string>
+    <string name="AboutUs">AboutUs</string>
+    <string name="XepHang">Xếp Hạng</string>
+    <string name="btn_Xephang" >Xếp Hạng</string>
+    <string name="btnTapDem">TẬP ĐẾM</string>
+    <string name="btnLonBe">LỚN BÉ</string>
+    <string name="btnToanHinh">TOÁN HÌNH</string>
+    <string name="btnTinhNham">TÍNH NHẨM</string>
+    <string name="btnToanDo">TOÁN ĐỐ</string>
+</resources>
